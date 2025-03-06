@@ -3,6 +3,7 @@ name: Prof. Dr. Bartosz von Rymon Lipinski
 image: images/bartosz-von-rymon-lipinski.jpg
 role: principal-investigator
 affiliation: Nuremberg Institute of Technology
+active: true
 links:
   home-page: https://www.th-nuernberg.de/person/von-rymon-lipinski-bartosz/
   orcid: 

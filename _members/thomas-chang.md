@@ -2,8 +2,10 @@
 name: Thomas Vincent Chang
 image: images/thomas-chang.png
 role: phd
+affiliation: Nuremberg Institute of Technology
+active: true
 # description: Lead Programmer
-group: alum
+group: ibmpp
 links:
   email: thomas.chang@th-nuernberg.de
   orcid: 0009-0008-9033-1298
