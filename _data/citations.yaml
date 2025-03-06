@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/cvpr52733.2024.00308
+  title: Hierarchical Histogram Threshold Segmentation - Auto-terminating High-detail
+    Oversegmentation
+  authors:
+  - Thomas V. Chang
+  - Simon Seibt
+  - Bartosz von Rymon Lipinski
+  publisher: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2024-06-16'
+  link: https://doi.org/g8685k
+  orcid: 0009-0008-9033-1298
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2312/EGP.20241038
+  title: Dense 3D Gaussian Splatting Initialization for Sparse Image Data
+  authors:
+  - Simon Seibt
+  - Thomas Vincent Siu-Lung Chang
+  - Bartosz von Rymon Lipinski
+  - Marc Erich Latoschik
+  publisher: The Eurographics Association
+  date: '2024-01-01'
+  link: https://doi.org/g8686b
+  orcid: 0009-0008-9033-1298
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/icipc59416.2023.10328368
   title: DFM4SFM - Dense Feature Matching for Structure from Motion
   authors:
