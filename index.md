@@ -3,7 +3,8 @@
 
 # Interactive Media Technology Lab Nuremberg
 
-Dive into the future of interactive media with us at the Interactive Media Technology Lab! We're crafting the next generation of digital experiences, where innovation meets immersion.
+Dive into the future of interactive media with us at the Interactive Media Technology Lab!
+We're crafting the next generation of digital experiences, where innovation meets immersion.
 
 {% include section.html %}
 
@@ -26,7 +27,7 @@ We're not just researching interactive media; we're redefining it. Join us as we
 
 {%
   include feature.html
-  image="images/hhts-teaser.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +50,7 @@ Get ready to see the future of interactive media unfold. Our projects are where 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +75,7 @@ Meet the minds behind the magic! Our team is a powerhouse of creativity and expe
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
