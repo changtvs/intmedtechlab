@@ -1,23 +1,28 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+# HHTS
+- id: 10.1109/CVPR52733.2024.00308
+  image: images/hhts-teaser.jpg
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  - type: source
+    text: Code
+    link: https://github.com/changtvs/HHTS
+  - type: website
+    text: Project Page
+    link: https://changtvs.github.io/hierarchical-histogram-threshold-segmentation/
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Computer Vision
+    - Oversegmentation
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+# DGSI
+- id: 10.2312/egp.20241038
+  image: images/dgsi-teaser.jpg
+  tags:
+    - Computer Vision
+    - Computer Graphics
+    - Novel View Synthesis
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+# DFM4SfM
+- id: 10.1109/ICIPC59416.2023.10328368
+  image: images/dfm4sfm-teaser.jpg
+  tags:
+    - Computer Vision
+    - Structure from Motion

@@ -1,9 +1,9 @@
 ---
 ---
 
-# changtvs's Website
+# Interactive Media Technology Lab Nuremberg
 
-An engaging 1-3 sentence description of your lab.
+Dive into the future of interactive media with us at the Interactive Media Technology Lab! We're crafting the next generation of digital experiences, where innovation meets immersion.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We're not just researching interactive media; we're redefining it. Join us as we explore the cutting edge of digital interaction and creation.
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/hhts-teaser.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Get ready to see the future of interactive media unfold. Our projects are where groundbreaking ideas become reality, transforming how we interact with digital content.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the minds behind the magic! Our team is a powerhouse of creativity and expertise, driven to innovate in the world of interactive media.
 
 {%
   include button.html
