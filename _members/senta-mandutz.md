@@ -2,7 +2,7 @@
 name: Senta Mandutz
 image: images/photo.jpg
 role: phd
-affiliation: Nuremberg Institute of Technology
+# affiliation: Nuremberg Institute of Technology
 active: true
 group: ke
 links:

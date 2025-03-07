@@ -2,11 +2,12 @@
 name: Kay Hartmann
 image: images/photo.jpg
 role: undergrad
-affiliation: Nuremberg Institute of Technology
+description: Research Assistant
+# affiliation: Nuremberg Institute of Technology
 active: true
 group: ibmpp
 links:
-  home-page: 
+  home-page: https://hartkaymann.com/
   email: hartmannka80488@th-nuernberg.de
 ---
 

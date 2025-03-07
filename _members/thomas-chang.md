@@ -2,7 +2,7 @@
 name: Thomas Vincent Chang
 image: images/thomas-chang.png
 role: phd
-affiliation: Nuremberg Institute of Technology
+# affiliation: Nuremberg Institute of Technology
 active: true
 # description: Lead Programmer
 group: ibmpp
